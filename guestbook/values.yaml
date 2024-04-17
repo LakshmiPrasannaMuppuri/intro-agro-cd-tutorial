@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: https://github.com/LakshmiPrasannaMuppuri/intro-agro-cd-tutorial/edit/main/guestbook/values.yaml
-  tag: 0.1.0
+  tag: 0.2.0
   pullPolicy: IfNotPresent
 
 service:
